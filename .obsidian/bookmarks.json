@@ -1,10 +1,10 @@
 {
   "items": [
     { "type": "file", "path": "ホーム.md", "title": "🏠 ホーム" },
-    { "type": "file", "path": "使い方.md", "title": "📖 使い方" },
-    { "type": "folder", "path": "00_Inbox", "title": "📥 ネタ帳" },
-    { "type": "folder", "path": "20_Posts", "title": "📤 投稿" },
-    { "type": "folder", "path": "60_Notes", "title": "🧠 知見" },
-    { "type": "folder", "path": "70_Reports", "title": "📈 レポート" }
+    { "type": "file", "path": "はじめかた.md", "title": "📖 はじめかた" },
+    { "type": "folder", "path": "05_月次管理", "title": "📅 月次管理" },
+    { "type": "folder", "path": "10_クライアント", "title": "👥 クライアント" },
+    { "type": "folder", "path": "20_ナレッジ", "title": "🧠 ナレッジ" },
+    { "type": "folder", "path": "90_テンプレート", "title": "📄 テンプレート" }
   ]
 }

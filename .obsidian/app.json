@@ -1,7 +1,6 @@
 {
-  "attachmentFolderPath": "99_Attachments",
-  "newFileLocation": "folder",
-  "newFileFolderPath": "00_Inbox",
+  "attachmentFolderPath": "99_添付",
+  "newFileLocation": "current",
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": false,
   "newLinkFormat": "shortest",
@@ -10,6 +9,5 @@
   "trashOption": "local",
   "defaultViewMode": "source",
   "livePreview": true,
-  "showLineNumber": false,
   "spellcheck": false
 }
