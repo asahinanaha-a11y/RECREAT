@@ -1,0 +1,15 @@
+{
+  "attachmentFolderPath": "99_Attachments",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00_Inbox",
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest",
+  "showUnsupportedFiles": true,
+  "promptDelete": false,
+  "trashOption": "local",
+  "defaultViewMode": "source",
+  "livePreview": true,
+  "showLineNumber": false,
+  "spellcheck": false
+}

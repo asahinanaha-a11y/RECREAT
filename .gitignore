@@ -1,0 +1,14 @@
+# Obsidian のローカル作業状態（端末ごとに変わるので共有しない）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/cache
+.trash/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
